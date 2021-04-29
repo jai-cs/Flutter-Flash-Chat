@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311243819805",
+    "project_id": "flash-chat-ca826",
+    "storage_bucket": "flash-chat-ca826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311243819805:android:56a937441ebd6873a5aff4",
+        "android_client_info": {
+          "package_name": "cs.jai.fltter_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311243819805-q0lp1fom9ij4c5rdma8u1moq8nrft71a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2ejvEZYP8fCxR6jHg6KE0fBBQyr8jRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311243819805-q0lp1fom9ij4c5rdma8u1moq8nrft71a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
