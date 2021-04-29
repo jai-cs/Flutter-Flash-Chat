@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-##Description:
+## Description:
 
 Simple chatting app which incorporates firebase cloud storage and firebase authentication packages.
 
