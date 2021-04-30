@@ -6,8 +6,7 @@ Simple chatting app which incorporates firebase cloud storage and firebase authe
 
 A modern messaging app where users can sign up and log in to chat.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
+<img src = "https://github.com/jai-cs/Flutter-Flash-Chat/blob/master/chat1.jpg" style = "height: 100px; width: 50px; "/>
 
 ## Important Note: 
 
